@@ -27,6 +27,7 @@ td {
 	padding: 0;
 }
 
+
 body {
 	font-weight: normal;
 	font-style: normal;
@@ -36,6 +37,18 @@ body {
 	color: #333;
 	background-color: #fff;
 	min-width: 1226px;
+}
+
+.aph {
+	font-weight: normal;
+	font-style: normal;
+	font-size: 14px;
+	line-height: 1.5;
+	font-family: "Helvetica Neue", Helvetica, Arial, "Microsoft YaHei", sans-serif;
+	color: #333;
+	background-color: #fff;
+	min-width: 1226px;
+	display: block
 }
 
 a {
@@ -59,10 +72,11 @@ header {
 	overflow: hidden;
 }
 
-.bodyabc{
+.bodyabc {
 	position: absolute;
 	margin-top: -100px;
 }
+
 .topBanner {
 	width: 100%;
 	height: 120px;
@@ -136,6 +150,7 @@ header {
 	height: 100px;
 	margin: 0 auto;
 }
+
 .phb-choice {
 	margin-top: 15px;
 }
@@ -147,17 +162,18 @@ header {
 	color: #999;
 	font-size: 12px;
 	margin-left: 215px;
-	margin-top:-130px;
+	margin-top: -130px;
 	/* border: 1px solid #000; */
 }
+
 .phb-choice .word2 {
-	
+
 	display: inline-block;
 	width: 140px;
 	color: #999;
 	font-size: 12px;
-	
-	margin-top:-130px;
+
+	margin-top: -130px;
 	/* border: 1px solid #000; */
 }
 
@@ -172,7 +188,8 @@ header {
 	vertical-align: top;
 	/* border: 1px solid #000; */
 }
-.guangchang{
+
+.guangchang {
 	margin-left: 300px;
 	background: #FFFFFF;
 	width: 600px;
@@ -931,9 +948,10 @@ header {
 	cursor: pointer;
 }
 
-	width: 296px;
-	height: 195px;
-	float: left;
+width: 296px;
+height: 195px;
+float: left;
+
 .hot .doubleList li .comment {
 	padding: 30px;
 	box-sizing: border-box;
@@ -1280,15 +1298,23 @@ footer {
 	height: 19px;
 	margin: 0 auto;
 }
-.zelda{width: 750px;
+
+.zelda {
+	width: 750px;
 	height: 54px;
 	float: left;
 	color: #b0b0b0;
 	font-size: 12px;
-	}
-.zelda a{color: #757575;
+}
+
+.zelda a {
+	color: #757575;
 	font-size: 12px;
-	line-height: 18px;}
-.zelda a:hover{color: #ff6700;}
+	line-height: 18px;
+}
+
+.zelda a:hover {
+	color: #ff6700;
+}
 
 /***************************footer end********************************/
